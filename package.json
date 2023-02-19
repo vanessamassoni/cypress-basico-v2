@@ -1,0 +1,18 @@
+{
+  "name": "cypress-basico-v2",
+  "version": "1.0.0",
+  "description": "Projeto de teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vanessamassoni/cypress-basico-v2.git"
+  },
+  "author": "Vanessa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
