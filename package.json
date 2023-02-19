@@ -4,7 +4,9 @@
   "description": "Projeto de teste",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress open",
+    "cy:open": "cypress open"
+
   },  
   "repository": {
     "type": "git",
